@@ -1,5 +1,5 @@
 NOTE: This is an old legacy branch for record keeping. 
-The modern St.Francis House website is a on private branch elsewhere. 
+The modern St.Francis House website is a on private repo elsewhere. 
 
 Please reach out to Seattle U CS dept. St. Francis House, or myself for information regarding the latest website, hosting, and information if required.
 
